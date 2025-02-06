@@ -1,0 +1,14 @@
+    give me the typescript code for taking a json blob of an array with two fields
+    (front and back), and turn it into a react flash card app.
+    make each flash card clickable. before clicking the flash card it will show the
+    front of the card, after clicking the flashcard it will show the back of the card
+
+    only show one card at a time, and include buttons to show the next and
+    previous cards
+
+    position the flash card at the top middle of the page. make the text color black and
+    the flash card color light blue
+
+    keep the CSS separate from the react code
+
+    CODE ONLY

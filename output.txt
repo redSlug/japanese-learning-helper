@@ -1,0 +1,36 @@
+1 はい・いいえ hai・iie Yes・No
+2 ありがとう(ございます)。 Arigato(gozaimasu) Thankyou(formal)
+3 わかりますか？ Wakarimasuka? Doyouunderstand?
+4 はい、わかります。 Hai,wakarimasu. Yes,Ido(understand).
+5 いいえ、わかりません。 Iie,wakarimasen. No,Idonʼt(understand).
+6 すこしわかります。 Sukoshiwakarimasu. (Iunderstand)alittle.
+7 もういちど、 Moichido Oncemore
+8 おねがいします。 Onegaishimasu please.
+9 しつもんは？ Shitsumonwa? Questions?
+10 だいじょうぶですか？ Daijobudesuka? Areyouokay?
+11 だいじょうぶです。 Daijobudesu Iamokay.
+1
+12 まだです。 Madadesu Notyet.
+13 いいですか？ Iidesuka? Isitokay?
+14 いいです。 Iidesu Itʼsgood.Itʼscorrect.
+15 ちがいます。 Chigaimasu Itʼsincorrect.
+16 くりかえしてください。 Kurikaeshitekudasai Pleaserepeat.
+17 はじめましょう。 Hajimemasho Letʼsstart.
+18 おわりましょう。 Owarimasho Letʼsend.
+19 かいてください。 Kaitekudasai Pleasewrite.
+20 きいてください。 Kiitekudasai Pleaselisten.
+21 よんでください。 Yondekudasai Pleaseread.
+22 みてください。 Mitekudasai Pleaselook.
+
+
+2
+23 えいごで なんですか？ Eigodenandesuka? HowdoyousayinEnglish?
+24 にほんごで なんですか？ Nihongodenandesuka? HowdoyousayinJapanese?
+25 クラス kurasu class
+26 しゅくだい shukudai homework
+27 がくせい gakusei student
+28 せんせい sensei teacher
+29 たとえば… Tatoeba Forexample…
+30 またらいしゅう。 Mataraishu Seeyounextweek
+31 すみません・・・ Sumimasen Excuseme
+32かいしゃいん kaishain officeworker/employee
