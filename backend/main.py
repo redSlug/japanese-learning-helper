@@ -1,15 +1,13 @@
 from dotenv import load_dotenv
 import os
-
-load_dotenv()  # Load the variables from .env
-
 from openai import OpenAI
-import json
-
+from os import path
 import pdf_extractor
 
-# Initialize the OpenAI client
-client = OpenAI(api_key=os.getenv('OPEN_API_KEY'))  # Replace with your API key
+load_dotenv()
+
+
+client = OpenAI(api_key=os.getenv('OPEN_API_KEY'))
 
 prompt_string = """convert this text to structured json. 
                        if the english does not exist please translate the hiragana to english.
@@ -29,7 +27,7 @@ def structure_text_with_openai(source_filename: str) -> dict:
     text_blob = pdf_extractor.get_text_from_pdf(source_filename)
 
     response = client.chat.completions.create(
-        model="gpt-4o-2024-08-06",  # or "gpt-3.5-turbo"
+        model="gpt-4o-2024-08-06",
         messages=[
             {"role": "developer", "content": "You are a helpful assistant."},
             {
@@ -39,14 +37,15 @@ def structure_text_with_openai(source_filename: str) -> dict:
         ],
     )
 
-    # Extract and parse the JSON response
     print(response)
     json_response = response.choices[0].message.content
-
-    output_filename = f'{source_filename[:-4]}.json'
-    with open(output_filename, 'w') as f:
+    basepath = path.dirname(__file__)
+    filepath = path.abspath(path.join(basepath, "..", "public", "cards.json"))
+    with open(filepath, 'w') as f:
         f.write(json_response)
-    print(json_response)
+
+
+
 
 # Example usage
 if __name__ == "__main__":
