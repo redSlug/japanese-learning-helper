@@ -1,15 +1,7 @@
 // FlashCardApp.tsx
 import React, { useState } from 'react';
 import './FlashCardApp.css';
-
-interface FlashCard {
-    front: string;
-    back: string;
-}
-
-interface FlashCardAppProps {
-    cards: FlashCard[];
-}
+import {FlashCardAppProps} from "./types/FlashCard.ts";
 
 const FlashCardApp: React.FC<FlashCardAppProps> = ({ cards }) => {
     const [currentIndex, setCurrentIndex] = useState(0);
@@ -35,10 +27,12 @@ const FlashCardApp: React.FC<FlashCardAppProps> = ({ cards }) => {
                     onClick={() => setIsFlipped(!isFlipped)}
                 >
                     <div className="flashcard-front">
-                        {cards[currentIndex].front}
+                        {cards[currentIndex].english}
                     </div>
                     <div className="flashcard-back">
-                        {cards[currentIndex].back}
+                        {cards[currentIndex].hiragana}
+                        <br />
+                        {cards[currentIndex].romanji}
                     </div>
                 </div>
             </div>
