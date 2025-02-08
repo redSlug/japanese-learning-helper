@@ -1,5 +1,8 @@
 # Japanese Learning Helper
-![app_screenshot.png](app_screenshot.png)
+
+[try it out!](https://redslug.github.io/japanese-learning-helper/)
+
+![screenshot.png](screenshot.png)
 
 ## Next Steps
 - batch calls to OpenAI because they trunkate the result for each file
