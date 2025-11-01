@@ -21,6 +21,11 @@ export const availableDecks = [
     file: "temporal.json",
   },
   { label_english: "Food", label_hiragana: "たべもの", file: "food.json" },
+  {
+    label_english: "Relative position",
+    label_hiragana: "いち",
+    file: "relative_position.json",
+  },
   { label_english: "Position", label_hiragana: "いち", file: "position.json" },
   { label_english: "Colors", label_hiragana: "いろ", file: "colors.json" },
   { label_english: "Home", label_hiragana: "いえ", file: "home.json" },

@@ -3,6 +3,7 @@ export interface FlashCard {
   romanji: string;
   english: string;
   className?: string;
+  svg_illustration?: string;
 }
 
 export interface FlashCardAppProps {

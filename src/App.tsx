@@ -50,6 +50,7 @@ function FlashCardApp() {
           isFlipped={isFlipped}
           onToggleFlip={() => setIsFlipped(!isFlipped)}
           isColorsDeck={selectedDeck === "colors.json"}
+          hasSVG={selectedDeck === "relative_position.json"}
         />
       </div>
 

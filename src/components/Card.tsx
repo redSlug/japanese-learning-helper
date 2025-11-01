@@ -7,6 +7,7 @@ type CardProps = {
   isFlipped: boolean;
   onToggleFlip: () => void;
   isColorsDeck: boolean;
+  hasSVG: boolean;
 };
 
 export function Card({
@@ -14,10 +15,16 @@ export function Card({
   isFlipped,
   onToggleFlip,
   isColorsDeck,
+  hasSVG,
 }: CardProps) {
-  if (isColorsDeck) {
-    console.log("Card color class:", card.className, card);
+  if (hasSVG) {
+    console.log("Card has SVG:", card);
   }
+
+  const svgDataUrl =
+    hasSVG && card.svg_illustration
+      ? `data:image/svg+xml;utf8,${encodeURIComponent(card.svg_illustration)}`
+      : null;
 
   return (
     <div
@@ -28,6 +35,14 @@ export function Card({
         className={`flashcard-front ${isColorsDeck ? card.className || "" : ""}`}
       >
         {isColorsDeck ? null : card.hiragana}
+
+        {hasSVG && (
+          <img
+            className="svg-illustration"
+            src={svgDataUrl!}
+            alt={card.english || card.hiragana}
+          />
+        )}
       </div>
       <div className="flashcard-back">
         <TextLine kind="hiragana">{card.hiragana}</TextLine>
