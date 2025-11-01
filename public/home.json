@@ -1,0 +1,16 @@
+[
+    {"hiragana": "おふろ", "romanji": "ofuro", "english": "bath"},
+    {"hiragana": "へや", "romanji": "heya", "english": "room"},
+    {"hiragana": "わたしのへや", "romanji": "watashi no heya", "english": "My room"},
+    {"hiragana": "かいだん", "romanji": "kaidan", "english": "stair(s)"},
+    {"hiragana": "うち", "romanji": "uchi", "english": "house"},
+    {"hiragana": "こどものへや", "romanji": "kodomo no heya", "english": "children's room"},
+    {"hiragana": "わしつ", "romanji": "washitsu", "english": "Japanese style room"},
+    {"hiragana": "たたみ", "romanji": "tatami", "english": "tatami mat"},
+    {"hiragana": "おしいれ", "romanji": "oshiire", "english": "place for futon/closet"},
+    {"hiragana": "いっけんや", "romanji": "ikken ya", "english": "detached house"},
+    {"hiragana": "まど", "romanji": "mado", "english": "window"},
+    {"hiragana": "まどがひとつあります", "romanji": "mado ga hitotsu arimasu", "english": "There is one window."},
+    {"hiragana": "ゴミばこ", "romanji": "gomibako", "english": "trash can"}
+]
+

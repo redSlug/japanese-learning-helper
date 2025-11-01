@@ -1,0 +1,19 @@
+[
+    {"hiragana": "どこであいますか？", "romanji": "doko de aimasu ka?", "english": "Where will you meet?"},
+    {"hiragana": "しょくぶつえんであいます", "romanji": "shokubutsuen de aimasu", "english": "I will meet at the botanical garden"},
+    {"hiragana": "そのしょくぶつえんはひろいですか？", "romanji": "sono shokubutsuen wa hiroi desu ka?", "english": "Is that botanical garden spacious/large?"},
+    {"hiragana": "うえ", "romanji": "ue", "english": "on top of / above"},
+    {"hiragana": "した", "romanji": "shita", "english": "under / below"},
+    {"hiragana": "なか", "romanji": "naka", "english": "inside"},
+    {"hiragana": "うしろ", "romanji": "ushiro", "english": "behind / back"},
+    {"hiragana": "みぎ", "romanji": "migi", "english": "right"},
+    {"hiragana": "ひだり", "romanji": "hidari", "english": "left"},
+    {"hiragana": "しゃしんはテーブルのうえです", "romanji": "shashin wa teeburu no ue desu", "english": "The picture is on the table."},
+    {"hiragana": "トイレはどこですか", "romanji": "toire wa doko desu ka", "english": "Where is the toilet?"},
+    {"hiragana": "デパート", "romanji": "depaato", "english": "department store"},
+    {"hiragana": "ちかくです", "romanji": "chikaku desu", "english": "nearby/close"},
+    {"hiragana": "となりです", "romanji": "tonari desu", "english": "next to"},
+    {"hiragana": "ゆか", "romanji": "yuka", "english": "floor"},
+    {"hiragana": "__はどこですか", "romanji": "__ wa doko desu ka", "english": "Where is __?"},
+    {"hiragana": "うら", "romanji": "ura", "english": "back/rear"}
+]

@@ -1,0 +1,17 @@
+[
+    {"hiragana": "かあど", "romanji": "kādo", "english": "Card"},
+    {"hiragana": "まえの", "romanji": "mae no", "english": "Previous"},
+    {"hiragana": "つぎの", "romanji": "tsugi no", "english": "Next"},
+    {"hiragana": "このあぷり", "romanji": "kono apuri", "english": "This App"},
+    {"hiragana": "かつどう", "romanji": "katsudō", "english": "Activities"},
+    {"hiragana": "けいようし", "romanji": "keiyōshi", "english": "Adjectives"},
+    {"hiragana": "きょうしつ", "romanji": "kyōshitsu", "english": "Classroom"},
+    {"hiragana": "じかん", "romanji": "jikan", "english": "Temporal / Time"},
+    {"hiragana": "たべもの", "romanji": "tabemono", "english": "Food"},
+    {"hiragana": "いち", "romanji": "ichi", "english": "Position / Location"},
+    {"hiragana": "いろ", "romanji": "iro", "english": "Colors"},
+    {"hiragana": "いえ", "romanji": "ie", "english": "Home"},
+    {"hiragana": "ぶんぽう", "romanji": "bunpō", "english": "Grammar"},
+    {"hiragana": "かぞえかた", "romanji": "kazoekata", "english": "Counting"}
+]
+
