@@ -1,16 +1,15 @@
 [
-    {"hiragana": "あか", "romanji": "aka", "english": "Red (Noun)"},
-    {"hiragana": "あかい", "romanji": "akai", "english": "Red (i-Adjective)"},
-    {"hiragana": "あお", "romanji": "ao", "english": "Blue (Noun)"},
-    {"hiragana": "きいろ", "romanji": "kiiro", "english": "Yellow (Noun)"},
-    {"hiragana": "みどり", "romanji": "midori", "english": "Green (Noun / no-Adjective)"},
-    {"hiragana": "むらさき", "romanji": "murasaki", "english": "Purple (Noun / no-Adjective)"},
-    {"hiragana": "ピンク", "romanji": "pinku", "english": "Pink (Noun / no-Adjective)"},
-    {"hiragana": "オレンジ", "romanji": "orenji", "english": "Orange (Noun / no-Adjective)"},
-    {"hiragana": "しろ", "romanji": "shiro", "english": "White (Noun)"},
-    {"hiragana": "くろ", "romanji": "kuro", "english": "Black (Noun)"},
-    {"hiragana": "はいいろ", "romanji": "haiiro", "english": "Gray (Noun / no-Adjective)"},
-    {"hiragana": "ちゃいろ", "romanji": "chairo", "english": "brown"},
-    {"hiragana": "しらが", "romanji": "shiraga", "english": "grey hair"}
+  { "hiragana": "あか", "romanji": "aka", "english": "Red (Noun)", "className": "color-red" },
+  { "hiragana": "あお", "romanji": "ao", "english": "Blue (Noun)", "className": "color-blue" },
+  { "hiragana": "きいろ", "romanji": "kiiro", "english": "Yellow (Noun)", "className": "color-yellow" },
+  { "hiragana": "みどり", "romanji": "midori", "english": "Green (Noun / no-Adjective)", "className": "color-green" },
+  { "hiragana": "むらさき", "romanji": "murasaki", "english": "Purple (Noun / no-Adjective)", "className": "color-purple" },
+  { "hiragana": "ピンク", "romanji": "pinku", "english": "Pink (Noun / no-Adjective)", "className": "color-pink" },
+  { "hiragana": "オレンジ", "romanji": "orenji", "english": "Orange (Noun / no-Adjective)", "className": "color-orange" },
+  { "hiragana": "しろ", "romanji": "shiro", "english": "White (Noun)", "className": "color-white" },
+  { "hiragana": "くろ", "romanji": "kuro", "english": "Black (Noun)", "className": "color-black" },
+  { "hiragana": "はいいろ", "romanji": "haiiro", "english": "Gray (Noun / no-Adjective)", "className": "color-gray" },
+  { "hiragana": "ちゃいろ", "romanji": "chairo", "english": "brown", "className": "color-brown" },
+  { "hiragana": "しらが", "romanji": "shiraga", "english": "grey hair", "className": "color-gray" }
 ]
 

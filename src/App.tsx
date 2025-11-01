@@ -1,6 +1,8 @@
 import {useEffect, useState} from 'react';
 import './App.css';
 import {FlashCard} from "./types/FlashCard.ts";
+import { DeckSelector } from "./components/DeckSelector.tsx";
+import Card from './components/Card.tsx';
 
 function FlashCardApp() {
     const [currentIndex, setCurrentIndex] = useState(0);
@@ -45,35 +47,22 @@ function FlashCardApp() {
 
     return (
         <div className="app-container">
-            <div style={{ position: 'absolute', top: 12, right: 12 }}>
-                <select
-                    value={selectedDeck}
-                    onChange={(e) => {
-                        setIsFlipped(false);
-                        setCurrentIndex(0);
-                        setSelectedDeck(e.target.value);
-                    }}
-                >
-                    {availableDecks.map((d) => (
-                        <option key={d.file} value={d.file}>{d.label_hiragana} ({d.label_english})</option>
-                    ))}
-                </select>
-            </div>
+            <DeckSelector
+                selectedDeck={selectedDeck}
+                availableDecks={availableDecks}
+                onDeckChange={(value) => {
+                    setIsFlipped(false);
+                    setCurrentIndex(0);
+                    setSelectedDeck(value);
+                }}
+            />
             <div className="card-container">
-                <div
-                    className={`flashcard ${isFlipped ? 'flipped' : ''}`}
-                    onClick={() => setIsFlipped(!isFlipped)}
-                >
-                    <div className="flashcard-front">
-                        {cards[currentIndex].hiragana}
-                    </div>
-                    <div className="flashcard-back">
-                        {cards[currentIndex].romanji}
-                        <br />
-                        <br />
-                        {cards[currentIndex].english}
-                    </div>
-                </div>
+                <Card
+                    card={cards[currentIndex]}
+                    isFlipped={isFlipped}
+                    onToggleFlip={() => setIsFlipped(!isFlipped)}
+                    isColorsDeck={selectedDeck === 'colors.json'}
+                />
             </div>
 
             <div className="navigation-controls">

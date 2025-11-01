@@ -1,0 +1,10 @@
+.deck-selector {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+}
+
+.deck-selector select {
+  padding: 4px 8px;
+  font-size: 14px;
+}

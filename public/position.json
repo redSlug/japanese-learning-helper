@@ -1,6 +1,11 @@
 [
     {"hiragana": "どこであいますか？", "romanji": "doko de aimasu ka?", "english": "Where will you meet?"},
     {"hiragana": "しょくぶつえんであいます", "romanji": "shokubutsuen de aimasu", "english": "I will meet at the botanical garden"},
+    {"hiragana": "その", "romanji": "sono", "english": "that (near the listener)"},
+    {"hiragana": "しょくぶつえん", "romanji": "shokubutsuen", "english": "botanical garden"},
+    {"hiragana": "は", "romanji": "wa", "english": "topic marker particle (written as 'ha')"},
+    {"hiragana": "ひろい", "romanji": "hiroi", "english": "wide / spacious / large"},
+    {"hiragana": "ですか", "romanji": "desu ka", "english": "is it? (polite question marker)"},
     {"hiragana": "そのしょくぶつえんはひろいですか？", "romanji": "sono shokubutsuen wa hiroi desu ka?", "english": "Is that botanical garden spacious/large?"},
     {"hiragana": "うえ", "romanji": "ue", "english": "on top of / above"},
     {"hiragana": "した", "romanji": "shita", "english": "under / below"},
