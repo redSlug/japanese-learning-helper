@@ -1,10 +1,5 @@
 import "./DeckSelector.css";
-
-type Deck = {
-  label_english: string;
-  label_hiragana: string;
-  file: string;
-};
+import { Deck } from "../types/Deck";
 
 type DeckSelectorProps = {
   selectedDeck: string;

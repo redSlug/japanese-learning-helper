@@ -33,6 +33,7 @@ export function Card({
         <TextLine kind="hiragana">{card.hiragana}</TextLine>
         <TextLine kind="romanji">{card.romanji}</TextLine>
         <TextLine kind="english">{card.english}</TextLine>
+        {isColorsDeck && <div className={`color-swatch ${card.className}`} />}
       </div>
     </div>
   );
