@@ -1,5 +1,5 @@
 import React from "react";
-import './TextLine.css'
+import "./TextLine.css";
 
 type TextLineProps = {
   children: React.ReactNode;

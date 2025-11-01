@@ -9,18 +9,24 @@ type CardProps = {
   isColorsDeck: boolean;
 };
 
-export function Card({ card, isFlipped, onToggleFlip, isColorsDeck }: CardProps) {
-
+export function Card({
+  card,
+  isFlipped,
+  onToggleFlip,
+  isColorsDeck,
+}: CardProps) {
   if (isColorsDeck) {
     console.log("Card color class:", card.className, card);
   }
-  
+
   return (
     <div
       className={`flashcard ${isFlipped ? "flipped" : ""}`}
       onClick={onToggleFlip}
     >
-      <div className={`flashcard-front ${isColorsDeck ? (card.className || "") : ""}`}>
+      <div
+        className={`flashcard-front ${isColorsDeck ? card.className || "" : ""}`}
+      >
         {isColorsDeck ? null : card.hiragana}
       </div>
       <div className="flashcard-back">
