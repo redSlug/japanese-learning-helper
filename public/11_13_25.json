@@ -17,13 +17,12 @@
   { "hiragana": "こうちゃ", "romanji": "kōcha", "english": "black tea" },
   { "hiragana": "ワイン", "romanji": "wain", "english": "wine" },
   { "hiragana": "おさけ", "romanji": "osake", "english": "alcohol/sake" },
-  { "hiragana": "アルコール", "romanji": "arukōru", "english": "alcohol" },
   { "hiragana": "おちゃ", "romanji": "ocha", "english": "tea" },
   { "hiragana": "ビール", "romanji": "bīru", "english": "beer" },
   { "hiragana": "ジュース", "romanji": "jūsu", "english": "juice" },
   { "hiragana": "すし", "romanji": "sushi", "english": "sushi" },
-  { "hiragana": "どんなたべものがすきですか", "romanji": "donna tabemono ga suki desu ka?", "english": "What food do you like?" },
-  { "hiragana": "どんなのみものがすきですか", "romanji": "donna nomimono ga suki desu ka?", "english": "What drinks do you like?" },
+  { "hiragana": "たべものがすきですか", "romanji": "tabemono ga suki desu ka?", "english": "What food do you like?" },
+  { "hiragana": "のみものがすきですか", "romanji": "nomimono ga suki desu ka?", "english": "What drinks do you like?" },
   { "hiragana": "にくがすきですか", "romanji": "niku ga suki desu ka?", "english": "Do you like meat?" },
   { "hiragana": "にくがすきです", "romanji": "niku ga suki desu.", "english": "I like meat." },
   { "hiragana": "さかなとたまごがすきです", "romanji": "sakana to tamago ga suki desu.", "english": "I like fish and eggs." },
@@ -33,6 +32,6 @@
   { "hiragana": "どんな たべものが すきですか", "romanji": "donna tabemono ga suki desu ka?", "english": "What kind of food do you like?" },
   { "hiragana": "やさいが すきです", "romanji": "yasai ga suki desu.", "english": "I like vegetables." },
   { "hiragana": "にほんの たべものが すきです", "romanji": "Nihon no tabemono ga suki desu.", "english": "I like Japanese food." },
-  { "hiragana": "わたしの あさごはんは パン でした", "romanji": "watashi no asagohan wa pan deshita.", "english": "My breakfast was a bread." },
-  { "hiragana": "わたしの あさごはんは パンでは ありません でした", "romanji": "watashi no asagohan wa pan dewa arimasen deshita.", "english": "My breakfast was not a bread." }
+  { "hiragana": "あさごはんは パン でした", "romanji": "asagohan wa pan deshita.", "english": "breakfast was a bread." },
+  { "hiragana": "あさごはんは パンでは ありません でした", "romanji": "asagohan wa pan dewa arimasen deshita.", "english": "breakfast was not a bread." }
 ]
