@@ -51,17 +51,27 @@ export const availableDecks = [
   },
   {
     label_english: "Nov 13 2025",
-    label_hiragana: "2025年13月10日",
+    label_hiragana: "2025年11月13日",
     file: "11_13_25.json",
   },
   {
     label_english: "Nov 18 2025",
-    label_hiragana: "2025年18月10日",
+    label_hiragana: "2025年11月18日",
     file: "11_18_25.json",
   },
   {
     label_english: "Nov 21 2025",
-    label_hiragana: "2025年21月10日",
+    label_hiragana: "2025年11月21日",
     file: "11_21_25.json",
+  },
+  {
+    label_english: "Nov 24 2025",
+    label_hiragana: "2025年11月24日",
+    file: "11_24_25.json",
+  },
+  {
+    label_english: "Dec 1 2025",
+    label_hiragana: "2025年12月1日",
+    file: "12_1_25.json",
   }
 ]
