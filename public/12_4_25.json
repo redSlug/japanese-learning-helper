@@ -12,7 +12,7 @@
   { "hiragana": "します", "romanji": "shimasu", "english": "to do"},
   { "hiragana": "べんきょうします", "romanji": "benkyoushimasu", "english": "to study"},
   { "hiragana": "いきます (行きます)", "romanji": "ikimasu", "english": "to go"},
-  { "hiragana": "ききます (来ます)", "romanji": "kikimasu", "english": "to come"},
+  { "hiragana": "きます (来ます)", "romanji": "kimasu", "english": "to come"},
   { "hiragana": "かえります (帰ります)", "romanji": "kaerimasu", "english": "to return (go back)"},
   { "hiragana": "おきます (起きます)", "romanji": "okimasu", "english": "to get up"},
   { "hiragana": "ねます (寝ます)", "romanji": "nemasu", "english": "to sleep, go to sleep"},
