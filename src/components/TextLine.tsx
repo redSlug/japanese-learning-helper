@@ -3,7 +3,7 @@ import "./TextLine.css";
 
 type TextLineProps = {
   children: React.ReactNode;
-  kind?: "hiragana" | "romanji" | "english";
+  kind?: "hiragana" | "romanji" | "english" | "notes";
 };
 
 export function TextLine({ children, kind = "english" }: TextLineProps) {

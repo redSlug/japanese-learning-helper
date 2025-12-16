@@ -19,3 +19,10 @@
 .card-text--english {
   font-size: 1.3rem;
 }
+
+.card-text--notes {
+  font-size: 1rem;
+  color: #666;
+  font-style: italic;
+  margin-top: 12px;
+}

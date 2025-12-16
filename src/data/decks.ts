@@ -83,5 +83,15 @@ export const availableDecks = [
     label_english: "Dec 8 2025",
     label_hiragana: "2025年12月8日",
     file: "12_8_25.json",
+  },
+  {
+    label_english: "Dec 11 2025",
+    label_hiragana: "2025年12月11日",
+    file: "12_11_25.json",
+  },
+  {
+    label_english: "Dec 15 2025",
+    label_hiragana: "2025年12月14日",
+    file: "12_15_25.json",
   }
 ]

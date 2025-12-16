@@ -4,6 +4,7 @@ export interface FlashCard {
   english: string;
   className?: string;
   svg_illustration?: string;
+  notes?: string;
 }
 
 export interface FlashCardAppProps {
