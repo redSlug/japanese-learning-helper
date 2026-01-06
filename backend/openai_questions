@@ -1,4 +1,4 @@
-convert this text to structured json with fields english, romanji and hiragana, if the english
+convert this text to structured json with fields english, romaji and hiragana, if the english
 doesn't exist please translate the hiragana to english
 
 Kyo wa nan gatsu nan nichi nan yobi (desuka)?

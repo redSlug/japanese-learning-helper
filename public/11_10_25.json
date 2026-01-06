@@ -1,217 +1,217 @@
 [
     {
         "hiragana": "あたたかい",
-        "romanji": "atatakai",
+        "romaji": "atatakai",
         "english": "warm"
     },
     {
         "hiragana": "すずしい",
-        "romanji": "suzushii",
+        "romaji": "suzushii",
         "english": "cool (weather)"
     },
     {
         "hiragana": "しゅうまつ",
-        "romanji": "shūmatsu",
+        "romaji": "shūmatsu",
         "english": "weekend"
     },
     {
         "hiragana": "しゅうまつ は なに を したの？",
-        "romanji": "shūmatsu wa nani o shita no?",
+        "romaji": "shūmatsu wa nani o shita no?",
         "english": "How was your weekend? / What did you do on the weekend?"
     },
     {
         "hiragana": "こうこう",
-        "romanji": "kōkō",
+        "romaji": "kōkō",
         "english": "high school"
     },
     {
         "hiragana": "たのしかった",
-        "romanji": "tanoshikatta",
+        "romaji": "tanoshikatta",
         "english": "was fun (past tense)"
     },
     {
         "hiragana": "たのしい",
-        "romanji": "tanoshii",
+        "romaji": "tanoshii",
         "english": "fun (adjective)"
     },
     {
         "hiragana": "よかった です",
-        "romanji": "yokatta desu",
+        "romaji": "yokatta desu",
         "english": "that was good"
     },
     {
         "hiragana": "き",
-        "romanji": "ki",
+        "romaji": "ki",
         "english": "tree"
     },
     {
         "hiragana": "たくさん",
-        "romanji": "takusan",
+        "romaji": "takusan",
         "english": "many / a lot"
     },
     {
         "hiragana": "はな",
-        "romanji": "hana",
+        "romaji": "hana",
         "english": "flower"
     },
     {
         "hiragana": "しょくぶつ",
-        "romanji": "shokubutsu",
+        "romaji": "shokubutsu",
         "english": "plant"
     },
     {
         "hiragana": "しょくぶつえん",
-        "romanji": "shokubutsuen",
+        "romaji": "shokubutsuen",
         "english": "botanical garden"
     },
     {
         "hiragana": "ともだち",
-        "romanji": "tomodachi",
+        "romaji": "tomodachi",
         "english": "friend"
     },
     {
         "hiragana": "こんしゅう",
-        "romanji": "konshū",
+        "romaji": "konshū",
         "english": "this week"
     },
     {
         "hiragana": "こんしゅうまつ",
-        "romanji": "konshūmatsu",
+        "romaji": "konshūmatsu",
         "english": "this weekend"
     },
     {
         "hiragana": "くうこう",
-        "romanji": "kūkō",
+        "romaji": "kūkō",
         "english": "airport"
     },
     {
         "hiragana": "あたらしい",
-        "romanji": "atarashii",
+        "romaji": "atarashii",
         "english": "new"
     },
     {
         "hiragana": "がくせい",
-        "romanji": "gakusei",
+        "romaji": "gakusei",
         "english": "student"
     },
     {
         "hiragana": "にちようび",
-        "romanji": "nichiyōbi",
+        "romaji": "nichiyōbi",
         "english": "Sunday"
     },
     {
         "hiragana": "ふるい",
-        "romanji": "furui",
+        "romaji": "furui",
         "english": "old"
     },
     {
         "hiragana": "コーヒー",
-        "romanji": "kōhī",
+        "romaji": "kōhī",
         "english": "coffee"
     },
     {
         "hiragana": "くれました",
-        "romanji": "kuremashita",
+        "romaji": "kuremashita",
         "english": "gave me (past tense, polite)"
     },
     {
         "hiragana": "とくに なにも ない です",
-        "romanji": "toku ni nanimo nai desu",
+        "romaji": "toku ni nanimo nai desu",
         "english": "I don't have anything in particular"
     },
     {
         "hiragana": "おか",
-        "romanji": "oka",
+        "romaji": "oka",
         "english": "hill"
     },
     {
         "hiragana": "やま",
-        "romanji": "yama",
+        "romaji": "yama",
         "english": "mountain"
     },
     {
         "hiragana": "いつ が いい ですか？",
-        "romanji": "itsu ga ii desu ka?",
+        "romaji": "itsu ga ii desu ka?",
         "english": "When is good (for you)?"
     },
     {
         "hiragana": "せんしゅう",
-        "romanji": "senshū",
+        "romaji": "senshū",
         "english": "last week"
     },
     {
         "hiragana": "らいしゅう",
-        "romanji": "raishū",
+        "romaji": "raishū",
         "english": "next week"
     },
     {
         "hiragana": "いい です",
-        "romanji": "ii desu",
+        "romaji": "ii desu",
         "english": "is OK / is good"
     },
     {
         "hiragana": "だいじょうぶ です",
-        "romanji": "daijōbu desu",
+        "romaji": "daijōbu desu",
         "english": "is OK / no problem"
     },
     {
         "hiragana": "だめ です",
-        "romanji": "dame desu",
+        "romaji": "dame desu",
         "english": "is not OK / cannot"
     },
     {
         "hiragana": "はい",
-        "romanji": "hai",
+        "romaji": "hai",
         "english": "yes"
     },
     {
         "hiragana": "いいえ",
-        "romanji": "iie",
+        "romaji": "iie",
         "english": "no"
     },
     {
         "hiragana": "いきたい",
-        "romanji": "ikitai",
+        "romaji": "ikitai",
         "english": "I want to go"
     },
     {
         "hiragana": "いつでも",
-        "romanji": "itsudemo",
+        "romaji": "itsudemo",
         "english": "anytime / always"
     },
     {
         "hiragana": "コンビニ",
-        "romanji": "konbini",
+        "romaji": "konbini",
         "english": "convenience store (konbini)"
     },
     {
         "hiragana": "あいて います",
-        "romanji": "aite imasu",
+        "romaji": "aite imasu",
         "english": "is open"
     },
     {
         "hiragana": "しまって います",
-        "romanji": "shimatte imasu",
+        "romaji": "shimatte imasu",
         "english": "is closed"
     },
     {
         "hiragana": "きいて ください",
-        "romanji": "kiite kudasai",
+        "romaji": "kiite kudasai",
         "english": "please listen / please ask"
     },
     {
         "hiragana": "いつも",
-        "romanji": "itsumo",
+        "romaji": "itsumo",
         "english": "always / usually"
     },
     {
         "hiragana": "さんぽ します",
-        "romanji": "sanpo shimasu",
+        "romaji": "sanpo shimasu",
         "english": "take a walk"
     },
     {
         "hiragana": "なんじ が いい ですか？",
-        "romanji": "nanji ga ii desu ka?",
+        "romaji": "nanji ga ii desu ka?",
         "english": "What time is good (for booking/etc.)?"
     }
 ]

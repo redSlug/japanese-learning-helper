@@ -1,12 +1,12 @@
 [
-    {"hiragana": "と", "romanji": "to", "english": "with / and (particle)"},
-    {"hiragana": "わたしのペンです", "romanji": "watashi no pen desu", "english": "It is my pen. / My pen."},
-    {"hiragana": "わたしの__です", "romanji": "watashi no __ desu", "english": "__ is mine."},
-    {"hiragana": "も", "romanji": "mo", "english": "too/also"},
-    {"hiragana": "あります", "romanji": "arimasu", "english": "there is (for inanimate objects)"},
-    {"hiragana": "の", "romanji": "no", "english": "of/possessive particle"},
-    {"hiragana": "__があります", "romanji": "__ ga arimasu", "english": "There is __. (for inanimate objects)"},
-    {"hiragana": "います", "romanji": "imasu", "english": "there is (for animate objects)"},
-    {"hiragana": "ありません", "romanji": "arimasen", "english": "there is not (inanimate)"}
+    {"hiragana": "と", "romaji": "to", "english": "with / and (particle)"},
+    {"hiragana": "わたしのペンです", "romaji": "watashi no pen desu", "english": "It is my pen. / My pen."},
+    {"hiragana": "わたしの__です", "romaji": "watashi no __ desu", "english": "__ is mine."},
+    {"hiragana": "も", "romaji": "mo", "english": "too/also"},
+    {"hiragana": "あります", "romaji": "arimasu", "english": "there is (for inanimate objects)"},
+    {"hiragana": "の", "romaji": "no", "english": "of/possessive particle"},
+    {"hiragana": "__があります", "romaji": "__ ga arimasu", "english": "There is __. (for inanimate objects)"},
+    {"hiragana": "います", "romaji": "imasu", "english": "there is (for animate objects)"},
+    {"hiragana": "ありません", "romaji": "arimasen", "english": "there is not (inanimate)"}
 ]
 

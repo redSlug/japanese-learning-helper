@@ -1,11 +1,11 @@
 [
-    {"hiragana": "ななきろぐらむ", "romanji": "nana kiroguramu", "english": "7kg"},
-    {"hiragana": "ひとつ", "romanji": "hitotsu", "english": "one (item)"},
-    {"hiragana": "みっつあります", "romanji": "mittsu arimasu", "english": "There are three (items)."},
-    {"hiragana": "すこし", "romanji": "sukoshi", "english": "a few/a little"},
-    {"hiragana": "たくさんあります", "romanji": "takusan arimasu", "english": "There are many."},
-    {"hiragana": "すこし", "romanji": "sukoshi", "english": "a few/a little"},
-    {"hiragana": "すこし", "romanji": "sukoshi", "english": "little bit"},
-    {"hiragana": "たくさん", "romanji": "takusan", "english": "many/a lot"}
+    {"hiragana": "ななきろぐらむ", "romaji": "nana kiroguramu", "english": "7kg"},
+    {"hiragana": "ひとつ", "romaji": "hitotsu", "english": "one (item)"},
+    {"hiragana": "みっつあります", "romaji": "mittsu arimasu", "english": "There are three (items)."},
+    {"hiragana": "すこし", "romaji": "sukoshi", "english": "a few/a little"},
+    {"hiragana": "たくさんあります", "romaji": "takusan arimasu", "english": "There are many."},
+    {"hiragana": "すこし", "romaji": "sukoshi", "english": "a few/a little"},
+    {"hiragana": "すこし", "romaji": "sukoshi", "english": "little bit"},
+    {"hiragana": "たくさん", "romaji": "takusan", "english": "many/a lot"}
 ]
 

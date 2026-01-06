@@ -1,6 +1,6 @@
 export interface FlashCard {
   hiragana: string;
-  romanji: string;
+  romaji: string;
   english: string;
   className?: string;
   svg_illustration?: string;

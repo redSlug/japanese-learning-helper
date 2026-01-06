@@ -1,480 +1,480 @@
 [
   {
     "hiragana": "XはYです。",
-    "romanji": "X wa Y desu.",
+    "romaji": "X wa Y desu.",
     "english": "X is Y.",
     "notes": "present affirmative"
   },
   {
     "hiragana": "XはYじゃないです。",
-    "romanji": "X wa Y janai desu.",
+    "romaji": "X wa Y janai desu.",
     "english": "X is not Y.",
     "notes": "present negative"
   },
   {
     "hiragana": "XはYでした。",
-    "romanji": "X wa Y deshita.",
+    "romaji": "X wa Y deshita.",
     "english": "X was Y.",
     "notes": "Past tense of 'desu'"
   },
   {
     "hiragana": "XはYじゃなかったです。",
-    "romanji": "X wa Y janakatta desu.",
+    "romaji": "X wa Y janakatta desu.",
     "english": "X was not Y.",
     "notes": "Past negative of 'desu'"
   },
   {
     "hiragana": "NOUNがすきです。",
-    "romanji": "NOUN ga suki desu.",
+    "romaji": "NOUN ga suki desu.",
     "english": "I like NOUN.",
     "notes": "I like -"
   },
   {
     "hiragana": "NOUNがすきじゃないです。",
-    "romanji": "NOUN ga suki janai desu.",
+    "romaji": "NOUN ga suki janai desu.",
     "english": "I don't like NOUN.",
     "notes": "I don't like -"
   },
   {
     "hiragana": "V-ます",
-    "romanji": "V-masu",
+    "romaji": "V-masu",
     "english": "Verb (polite form)",
     "notes": "Verb masu form"
   },
   {
     "hiragana": "V-ません",
-    "romanji": "V-masen",
+    "romaji": "V-masen",
     "english": "Verb (negative polite)",
     "notes": "Verb masu form, negative"
   },
   {
     "hiragana": "V-ませんか？",
-    "romanji": "V-masen ka?",
+    "romaji": "V-masen ka?",
     "english": "Why don't we - ?",
     "notes": "Invite to do something"
   },
   {
     "hiragana": "を",
-    "romanji": "o",
+    "romaji": "o",
     "english": "object marker",
     "notes": "particle marking direct object of verb"
   },
   {
     "hiragana": "と",
-    "romanji": "to",
+    "romaji": "to",
     "english": "with",
     "notes": "particle used with people"
   },
   {
     "hiragana": "で",
-    "romanji": "de",
+    "romaji": "de",
     "english": "at",
     "notes": "particle indicating location where action takes place"
   },
   {
     "hiragana": "に",
-    "romanji": "ni",
+    "romaji": "ni",
     "english": "to/at",
     "notes": "particle for direction, destination, or specific time"
   },
   {
     "hiragana": "わたしは、ごご7じにともだちとカフェにいきます。カフェでコーヒーをのみます。",
-    "romanji": "watashi wa, gogo 7-ji ni tomodachi to kafe ni ikimasu. kafe de koohii wo nomimasu.",
+    "romaji": "watashi wa, gogo 7-ji ni tomodachi to kafe ni ikimasu. kafe de koohii wo nomimasu.",
     "english": "I will go to a cafe with my friend at 7 PM. I will drink coffee at the cafe."
   },
   {
     "hiragana": "とても",
-    "romanji": "totemo",
+    "romaji": "totemo",
     "english": "very",
     "notes": "adverb of degree, used with positive statements"
   },
   {
     "hiragana": "わたしはすしがとてもすきです。",
-    "romanji": "watashi wa sushi ga totemo suki desu.",
+    "romaji": "watashi wa sushi ga totemo suki desu.",
     "english": "I like sushi very much."
   },
   {
     "hiragana": "まあまあ",
-    "romanji": "maamaa",
+    "romaji": "maamaa",
     "english": "so so",
     "notes": "adverb of degree, indicates moderate liking"
   },
   {
     "hiragana": "わたしはからあげがまあまあすきです。",
-    "romanji": "watashi wa karaage ga maamaa suki desu.",
+    "romaji": "watashi wa karaage ga maamaa suki desu.",
     "english": "I somewhat like Japanese fried chicken."
   },
   {
     "hiragana": "すこし",
-    "romanji": "sukoshi",
+    "romaji": "sukoshi",
     "english": "a little"
   },
   {
     "hiragana": "ちょっと",
-    "romanji": "chotto",
+    "romaji": "chotto",
     "english": "a little",
     "notes": "adverb of degree, casual form of sukoshi"
   },
   {
     "hiragana": "わたしはなっとうがちょっとすきです。",
-    "romanji": "watashi wa nattou ga chotto suki desu.",
+    "romaji": "watashi wa nattou ga chotto suki desu.",
     "english": "I like fermented soybeans a little."
   },
   {
     "hiragana": "あまり",
-    "romanji": "amari",
+    "romaji": "amari",
     "english": "not much",
     "notes": "adverb of degree, used with negative verb forms"
   },
   {
     "hiragana": "わたしはおさけがあまりすきじゃないです。",
-    "romanji": "watashi wa osake ga amari suki janai desu.",
+    "romaji": "watashi wa osake ga amari suki janai desu.",
     "english": "I don't really like alcohol."
   },
   {
     "hiragana": "ぜんぜん",
-    "romanji": "zenzen",
+    "romaji": "zenzen",
     "english": "not at all",
     "notes": "adverb of degree, used with negative verb forms"
   },
   {
     "hiragana": "わたしはわさびがぜんぜんすきじゃないです。",
-    "romanji": "watashi wa wasabi ga zenzen suki janai desu.",
+    "romaji": "watashi wa wasabi ga zenzen suki janai desu.",
     "english": "I don't like wasabi at all."
   },
   {
     "hiragana": "いつ",
-    "romanji": "itsu",
+    "romaji": "itsu",
     "english": "when",
     "notes": "question word"
   },
   {
     "hiragana": "たんじょうびは いつ です か。",
-    "romanji": "tanjoubi wa itsu desu ka",
+    "romaji": "tanjoubi wa itsu desu ka",
     "english": "When is your birthday?"
   },
   {
     "hiragana": "どこで",
-    "romanji": "doko de",
+    "romaji": "doko de",
     "english": "where (at)",
     "notes": "question word with particle で for location of action"
   },
   {
     "hiragana": "ひるごはんは どこで たべます か。",
-    "romanji": "hirugohan wa doko de tabemasu ka",
+    "romaji": "hirugohan wa doko de tabemasu ka",
     "english": "Where do you eat lunch?"
   },
   {
     "hiragana": "どこに",
-    "romanji": "doko ni",
+    "romaji": "doko ni",
     "english": "where (to)",
     "notes": "question word with particle に for destination"
   },
   {
     "hiragana": "あした、どこに いきますか。",
-    "romanji": "ashita, doko ni ikimasu ka",
+    "romaji": "ashita, doko ni ikimasu ka",
     "english": "Where are you going tomorrow?"
   },
   {
     "hiragana": "だれと",
-    "romanji": "dare to",
+    "romaji": "dare to",
     "english": "with who",
     "notes": "question word with particle と for companionship"
   },
   {
     "hiragana": "だれと えいがを みます か。",
-    "romanji": "dare to eiga o mimasu ka",
+    "romaji": "dare to eiga o mimasu ka",
     "english": "Who will you watch a movie with?"
   },
   {
     "hiragana": "なにを",
-    "romanji": "nani o",
+    "romaji": "nani o",
     "english": "what",
     "notes": "question word with particle を for direct object"
   },
   {
     "hiragana": "やすみは なにを します か。",
-    "romanji": "yasumi wa nani o shimasu ka",
+    "romaji": "yasumi wa nani o shimasu ka",
     "english": "What will you do on your day off?"
   },
   {
     "hiragana": "どんな",
-    "romanji": "donna",
+    "romaji": "donna",
     "english": "what kind of",
     "notes": "question word, used before nouns"
   },
   {
     "hiragana": "どんな おんがくが すき ですか。",
-    "romanji": "donna ongaku ga suki desu ka",
+    "romaji": "donna ongaku ga suki desu ka",
     "english": "What kind of music do you like?"
   },
   {
     "hiragana": "きく",
-    "romanji": "kiku",
+    "romaji": "kiku",
     "english": "to listen/hear (plain)"
   },
   {
     "hiragana": "ききます",
-    "romanji": "kikimasu",
+    "romaji": "kikimasu",
     "english": "to listen/hear (polite)"
   },
   {
     "hiragana": "きかない",
-    "romanji": "kikanai",
+    "romaji": "kikanai",
     "english": "to not listen/hear (plain negative)"
   },
   {
     "hiragana": "ききません",
-    "romanji": "kikimasen",
+    "romaji": "kikimasen",
     "english": "to not listen/hear (polite negative)"
   },
   {
     "hiragana": "はなす",
-    "romanji": "hanasu",
+    "romaji": "hanasu",
     "english": "to speak (plain)"
   },
   {
     "hiragana": "はなします",
-    "romanji": "hanashimasu",
+    "romaji": "hanashimasu",
     "english": "to speak (polite)"
   },
   {
     "hiragana": "はなさない",
-    "romanji": "hanasanai",
+    "romaji": "hanasanai",
     "english": "to not speak (plain negative)"
   },
   {
     "hiragana": "はなしません",
-    "romanji": "hanashimasen",
+    "romaji": "hanashimasen",
     "english": "to not speak (polite negative)"
   },
   {
     "hiragana": "よむ",
-    "romanji": "yomu",
+    "romaji": "yomu",
     "english": "to read (plain)"
   },
   {
     "hiragana": "よみます",
-    "romanji": "yomimasu",
+    "romaji": "yomimasu",
     "english": "to read (polite)"
   },
   {
     "hiragana": "よまない",
-    "romanji": "yomanai",
+    "romaji": "yomanai",
     "english": "to not read (plain negative)"
   },
   {
     "hiragana": "よみません",
-    "romanji": "yomimasen",
+    "romaji": "yomimasen",
     "english": "to not read (polite negative)"
   },
   {
     "hiragana": "いく",
-    "romanji": "iku",
+    "romaji": "iku",
     "english": "to go (plain)"
   },
   {
     "hiragana": "いきます",
-    "romanji": "ikimasu",
+    "romaji": "ikimasu",
     "english": "to go (polite)"
   },
   {
     "hiragana": "いかない",
-    "romanji": "ikanai",
+    "romaji": "ikanai",
     "english": "to not go (plain negative)"
   },
   {
     "hiragana": "いきません",
-    "romanji": "ikimasen",
+    "romaji": "ikimasen",
     "english": "to not go (polite negative)"
   },
   {
     "hiragana": "かえる",
-    "romanji": "kaeru",
+    "romaji": "kaeru",
     "english": "to return (plain)"
   },
   {
     "hiragana": "かえります",
-    "romanji": "kaerimasu",
+    "romaji": "kaerimasu",
     "english": "to return (polite)"
   },
   {
     "hiragana": "かえらない",
-    "romanji": "kaeranai",
+    "romaji": "kaeranai",
     "english": "to not return (plain negative)"
   },
   {
     "hiragana": "かえりません",
-    "romanji": "kaerimasen",
+    "romaji": "kaerimasen",
     "english": "to not return (polite negative)"
   },
   {
     "hiragana": "のむ",
-    "romanji": "nomu",
+    "romaji": "nomu",
     "english": "to drink (plain)"
   },
   {
     "hiragana": "のみます",
-    "romanji": "nomimasu",
+    "romaji": "nomimasu",
     "english": "to drink (polite)"
   },
   {
     "hiragana": "のまない",
-    "romanji": "nomanai",
+    "romaji": "nomanai",
     "english": "to not drink (plain negative)"
   },
   {
     "hiragana": "のみません",
-    "romanji": "nomimasen",
+    "romaji": "nomimasen",
     "english": "to not drink (polite negative)"
   },
   {
     "hiragana": "たべる",
-    "romanji": "taberu",
+    "romaji": "taberu",
     "english": "to eat (plain)"
   },
   {
     "hiragana": "たべます",
-    "romanji": "tabemasu",
+    "romaji": "tabemasu",
     "english": "to eat (polite)"
   },
   {
     "hiragana": "たべない",
-    "romanji": "tabenai",
+    "romaji": "tabenai",
     "english": "to not eat (plain negative)"
   },
   {
     "hiragana": "たべません",
-    "romanji": "tabemasen",
+    "romaji": "tabemasen",
     "english": "to not eat (polite negative)"
   },
   {
     "hiragana": "みる",
-    "romanji": "miru",
+    "romaji": "miru",
     "english": "to see/watch (plain)"
   },
   {
     "hiragana": "みます",
-    "romanji": "mimasu",
+    "romaji": "mimasu",
     "english": "to see/watch (polite)"
   },
   {
     "hiragana": "みない",
-    "romanji": "minai",
+    "romaji": "minai",
     "english": "to not see/watch (plain negative)"
   },
   {
     "hiragana": "みません",
-    "romanji": "mimasen",
+    "romaji": "mimasen",
     "english": "to not see/watch (polite negative)"
   },
   {
     "hiragana": "おきる",
-    "romanji": "okiru",
+    "romaji": "okiru",
     "english": "to wake up (plain)"
   },
   {
     "hiragana": "おきます",
-    "romanji": "okimasu",
+    "romaji": "okimasu",
     "english": "to wake up (polite)"
   },
   {
     "hiragana": "おきない",
-    "romanji": "okinai",
+    "romaji": "okinai",
     "english": "to not wake up (plain negative)"
   },
   {
     "hiragana": "おきません",
-    "romanji": "okimasen",
+    "romaji": "okimasen",
     "english": "to not wake up (polite negative)"
   },
   {
     "hiragana": "ねる",
-    "romanji": "neru",
+    "romaji": "neru",
     "english": "to sleep (plain)"
   },
   {
     "hiragana": "ねます",
-    "romanji": "nemasu",
+    "romaji": "nemasu",
     "english": "to sleep (polite)"
   },
   {
     "hiragana": "ねない",
-    "romanji": "nenai",
+    "romaji": "nenai",
     "english": "to not sleep (plain negative)"
   },
   {
     "hiragana": "ねません",
-    "romanji": "nemasen",
+    "romaji": "nemasen",
     "english": "to not sleep (polite negative)"
   },
   {
     "hiragana": "くる",
-    "romanji": "kuru",
+    "romaji": "kuru",
     "english": "to come (plain)"
   },
   {
     "hiragana": "きます",
-    "romanji": "kimasu",
+    "romaji": "kimasu",
     "english": "to come (polite)"
   },
   {
     "hiragana": "こない",
-    "romanji": "konai",
+    "romaji": "konai",
     "english": "to not come (plain negative)"
   },
   {
     "hiragana": "きません",
-    "romanji": "kimasen",
+    "romaji": "kimasen",
     "english": "to not come (polite negative)"
   },
   {
     "hiragana": "する",
-    "romanji": "suru",
+    "romaji": "suru",
     "english": "to do (plain)"
   },
   {
     "hiragana": "します",
-    "romanji": "shimasu",
+    "romaji": "shimasu",
     "english": "to do (polite)"
   },
   {
     "hiragana": "しない",
-    "romanji": "shinai",
+    "romaji": "shinai",
     "english": "to not do (plain negative)"
   },
   {
     "hiragana": "しません",
-    "romanji": "shimasen",
+    "romaji": "shimasen",
     "english": "to not do (polite negative)"
   },
   {
     "hiragana": "へ",
-    "romanji": "e",
+    "romaji": "e",
     "english": "toward",
     "notes": "particle for direction, interchangeable with に for destinations"
   },
   {
     "hiragana": "は",
-    "romanji": "wa",
+    "romaji": "wa",
     "english": "topic marker",
     "notes": "particle marking the topic of the sentence"
   },
   {
     "hiragana": "が",
-    "romanji": "ga",
+    "romaji": "ga",
     "english": "subject marker",
     "notes": "particle marking the subject, used with すき"
   },
   {
     "hiragana": "か",
-    "romanji": "ka",
+    "romaji": "ka",
     "english": "question marker",
     "notes": "particle placed at end of sentence to form a question"
   },
   {
     "hiragana": "わたしのたんじょうびは8がつ28にちです。",
-    "romanji": "watashi no tanjoubi wa hachigatsu nijuuhachi nichi desu.",
+    "romaji": "watashi no tanjoubi wa hachigatsu nijuuhachi nichi desu.",
     "english": "My birthday is August 28th."
   }
 ]

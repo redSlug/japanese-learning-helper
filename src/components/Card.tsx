@@ -46,7 +46,7 @@ export function Card({
       </div>
       <div className="flashcard-back">
         <TextLine kind="hiragana">{card.hiragana}</TextLine>
-        <TextLine kind="romanji">{card.romanji}</TextLine>
+        <TextLine kind="romaji">{card.romaji}</TextLine>
         <TextLine kind="english">{card.english}</TextLine>
         {card.notes && <TextLine kind="notes">{card.notes}</TextLine>}
         {isColorsDeck && <div className={`color-swatch ${card.className}`} />}

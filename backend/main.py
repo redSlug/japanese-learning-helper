@@ -9,12 +9,12 @@ load_dotenv()
 
 client = OpenAI(api_key=os.getenv('OPEN_API_KEY'))
 
-prompt_string = """convert this text to structured json. 
+prompt_string = """convert this text to structured json.
                        if the english does not exist please translate the hiragana to english.
-                       if the romanji does not exist please translate the hiragana to romanji.
-                       Return it in the following format: 
-                       [{'hiragana': '', 'romanji': '', 'english': ''}]
-                       Only return valid JSON with double quotes instead of single quotes not 
+                       if the romaji does not exist please translate the hiragana to romaji.
+                       Return it in the following format:
+                       [{'hiragana': '', 'romaji': '', 'english': ''}]
+                       Only return valid JSON with double quotes instead of single quotes not
                        formatted as a code block.
                        this is the text to convert:
                     """
