@@ -1,12 +1,24 @@
 [
   { "hiragana": "りょこう", "romaji": "ryokō", "english": "travel", "japanese": "旅行", "notes": "Can be used as a noun or a verb with 'suru'." },
-  { "hiragana": "きゅうかちゅう", "romaji": "kyūka-chū", "english": "during the holidays / on vacation", "japanese": "休暇中", "notes": "'-chū' indicates something is currently in progress." },
+  {
+    "hiragana": "くりすますやすみ",
+    "romaji": "kurisumasu yasumi",
+    "english": "Christmas vacation / Christmas break",
+    "japanese": "クリスマス休み",
+    "notes": "Common conversational term for Christmas break."
+  },
   { "hiragana": "とり", "romaji": "tori", "english": "bird", "japanese": "鳥", "notes": "" },
   { "hiragana": "かんさつ", "romaji": "kansatsu", "english": "observe / observation", "japanese": "観察", "notes": "" },
   { "hiragana": "ひこうき", "romaji": "hikōki", "english": "airplane", "japanese": "飛行機", "notes": "" },
   { "hiragana": "のってきた", "romaji": "notte kita", "english": "came on (riding)", "japanese": "乗ってきた", "notes": "Past tense of 'notte kuru' (to come by riding/boarding)." },
   { "hiragana": "ねこたち", "romaji": "neko-tachi", "english": "cats", "japanese": "猫たち", "notes": "'-tachi' is a pluralizing suffix for living things." },
-  { "hiragana": "きゅうかちゅうにともだちとふろりだにいきました。", "romaji": "Kyūka-chū ni tomodachi to Furorida ni ikimashita.", "english": "for the holidays I went to Florida with friends", "japanese": "休暇中に友達とフロリダに行きました。", "notes": "Polite form (masu)." },
+  {
+    "hiragana": "くりすますやすみにともだちとふろりだにいきました。",
+    "romaji": "Kurisumasu yasumi ni tomodachi to Furorida ni ikimashita.",
+    "english": "For the Christmas vacation, I went to Florida with friends.",
+    "japanese": "クリスマス休みに友達とフロリダに行きました。",
+    "notes": "Uses 'Kurisumasu yasumi' specifically for Christmas break. Polite past form (ikimashita)."
+  },
   { "hiragana": "わたしたちはいっしょにとりをかんさつした。", "romaji": "Watashitachi wa issho ni tori o kansatsu shita.", "english": "we watched birds together", "japanese": "私たちは一緒に鳥を観察した。", "notes": "Plain/Informal past tense." },
   { "hiragana": "わたしたちはとりのげーむをしました。", "romaji": "Watashitachi wa tori no gēmu o shimashita.", "english": "we played a bird game", "japanese": "私たちは鳥のゲームをしました。", "notes": "Polite form (masu)." },
   { "hiragana": "わたしたちはねこといっしょにりょこうしました。", "romaji": "Watashitachi wa neko to issho ni ryokō shimashita.", "english": "we traveled with cats", "japanese": "私たちは猫と一緒に旅行しました。", "notes": "" },
