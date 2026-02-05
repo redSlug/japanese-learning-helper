@@ -9,7 +9,7 @@ function FlashCardApp() {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isFlipped, setIsFlipped] = useState(false);
   const [cards, setCards] = useState<Array<FlashCard>>([]);
-  const [selectedDeck, setSelectedDeck] = useState<string>("1_17_26.json");
+  const [selectedDeck, setSelectedDeck] = useState<string>("beg_jap_2_final.json");
   useEffect(() => {
     const fetchData = async () => {
       const response = await fetch(selectedDeck);

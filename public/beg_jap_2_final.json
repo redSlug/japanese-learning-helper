@@ -1,0 +1,257 @@
+[
+  {"hiragana": "すきなたべものはなんですか", "romaji": "suki na tabemono wa nan desu ka", "english": "What is your favorite food?", "japanese": "好きな食べ物は何ですか。", "notes": ""},
+  {"hiragana": "おすしがすきです", "romaji": "osushi ga suki desu", "english": "I like sushi.", "japanese": "お寿司が好きです。", "notes": ""},
+  {"hiragana": "すきなのみものはなんですか", "romaji": "suki na nomimono wa nan desu ka", "english": "What is your favorite drink?", "japanese": "好きな飲み物は何ですか。", "notes": ""},
+  {"hiragana": "りょくちゃがすきです", "romaji": "ryokucha ga suki desu", "english": "I like green tea.", "japanese": "緑茶が好きです。", "notes": ""},
+  {"hiragana": "すきなれすとらんがありますか", "romaji": "suki na resutoran ga arimasu ka", "english": "Do you have a restaurant you like?", "japanese": "好きなレストランがありますか。", "notes": ""},
+  {"hiragana": "はい、「さいぜりや」がすきです", "romaji": "hai, 'saizeriya' ga suki desu", "english": "Yes, I like Saizeriya.", "japanese": "はい、「サイゼリヤ」が好きです。", "notes": ""},
+  {"hiragana": "それはどこにありますか", "romaji": "sore wa doko ni arimasu ka", "english": "Where is that located?", "japanese": "それはどこにありますか。", "notes": ""},
+  {"hiragana": "にほんにたくさんあります", "romaji": "nihon ni takusan arimasu", "english": "There are many in Japan.", "japanese": "日本にたくさんあります。", "notes": ""},
+  {"hiragana": "ぴざがすきですか", "romaji": "piza ga suki desu ka", "english": "Do you like pizza?", "japanese": "ピザが好きですか。", "notes": ""},
+  {"hiragana": "はい、だいすきです", "romaji": "hai, daisuki desu", "english": "Yes, I love it!", "japanese": "はい、大好きです！", "notes": ""},
+  {
+    "hiragana": "あお",
+    "romaji": "ao",
+    "english": "blue",
+    "japanese": "青",
+    "notes": ""
+  },
+  {
+    "hiragana": "あか",
+    "romaji": "aka",
+    "english": "red",
+    "japanese": "赤",
+    "notes": ""
+  },
+  {
+    "hiragana": "くろ",
+    "romaji": "kuro",
+    "english": "black",
+    "japanese": "黒",
+    "notes": ""
+  },
+  {
+    "hiragana": "しろ",
+    "romaji": "shiro",
+    "english": "white",
+    "japanese": "白",
+    "notes": ""
+  },
+  {
+    "hiragana": "ちゃいろ",
+    "romaji": "chairo",
+    "english": "brown",
+    "japanese": "茶色",
+    "notes": ""
+  },
+  {
+    "hiragana": "みどり",
+    "romaji": "midori",
+    "english": "green",
+    "japanese": "緑",
+    "notes": ""
+  },
+  {
+    "hiragana": "むらさき",
+    "romaji": "murasaki",
+    "english": "purple",
+    "japanese": "紫",
+    "notes": ""
+  },
+  {
+    "hiragana": "かさ",
+    "romaji": "kasa",
+    "english": "umbrella",
+    "japanese": "かさ",
+    "notes": ""
+  },
+  {
+    "hiragana": "ほん",
+    "romaji": "hon",
+    "english": "book",
+    "japanese": "本",
+    "notes": ""
+  },
+  {
+    "hiragana": "かばん",
+    "romaji": "kaban",
+    "english": "bag",
+    "japanese": "かばん",
+    "notes": ""
+  },
+  {
+    "hiragana": "くつ",
+    "romaji": "kutsu",
+    "english": "shoes",
+    "japanese": "くつ",
+    "notes": ""
+  },
+  {
+    "hiragana": "さいふ",
+    "romaji": "saifu",
+    "english": "wallet",
+    "japanese": "さいふ",
+    "notes": ""
+  },
+  {
+    "hiragana": "しゃつ",
+    "romaji": "shatsu",
+    "english": "shirt",
+    "japanese": "シャツ",
+    "notes": "Katakana word."
+  },
+  {
+    "hiragana": "じーんず",
+    "romaji": "jiinzu",
+    "english": "jeans",
+    "japanese": "ジーンズ",
+    "notes": "Katakana word."
+  },
+  {
+    "hiragana": "とけい",
+    "romaji": "tokei",
+    "english": "watch",
+    "japanese": "時計",
+    "notes": ""
+  },
+  {
+    "hiragana": "ぺん",
+    "romaji": "pen",
+    "english": "pen",
+    "japanese": "ペン",
+    "notes": "Katakana word."
+  },
+  {
+    "hiragana": "ぼうし",
+    "romaji": "boushi",
+    "english": "hat, cap",
+    "japanese": "ぼうし",
+    "notes": ""
+  },
+  {
+    "hiragana": "たかい",
+    "romaji": "takai",
+    "english": "expensive",
+    "japanese": "たかい",
+    "notes": "Can also mean 'high' or 'tall' in other contexts."
+  },
+  {
+    "hiragana": "やすい",
+    "romaji": "yasui",
+    "english": "cheap",
+    "japanese": "やすい",
+    "notes": ""
+  },
+  {
+    "hiragana": "くろいくつ",
+    "romaji": "kuroi kutsu",
+    "english": "black shoes",
+    "japanese": "くろいくつ",
+    "notes": ""
+  },
+  {
+    "hiragana": "たかいかばん",
+    "romaji": "takai kaban",
+    "english": "expensive bag",
+    "japanese": "たかいかばん",
+    "notes": ""
+  },
+  {
+    "hiragana": "やすいぼうし",
+    "romaji": "yasui boushi",
+    "english": "cheap hat",
+    "japanese": "やすいぼうし",
+    "notes": ""
+  },
+  {
+    "hiragana": "いくらですか",
+    "romaji": "ikura desu ka",
+    "english": "How much?",
+    "japanese": "いくらですか。",
+    "notes": ""
+  },
+  {
+    "hiragana": "このほんはいくらですか",
+    "romaji": "kono hon wa ikura desu ka",
+    "english": "How much is this book?",
+    "japanese": "この本(ほん)はいくらですか",
+    "notes": ""
+  },
+  {
+    "hiragana": "そのあかいかさはいくらですか",
+    "romaji": "sono akai kasa wa ikura desu ka",
+    "english": "How much is that red umbrella?",
+    "japanese": "その赤(あか)いかさはいくらですか",
+    "notes": ""
+  },
+  {
+    "hiragana": "あのかさをください",
+    "romaji": "ano kasa o kudasai",
+    "english": "Can I have that umbrella over there?",
+    "japanese": "あのかさをください。",
+    "notes": ""
+  },
+  {
+    "hiragana": "じゅうえん",
+    "romaji": "juu en",
+    "english": "¥10",
+    "japanese": "じゅうえん",
+    "notes": ""
+  },
+  {
+    "hiragana": "ひゃくえん",
+    "romaji": "hyaku en",
+    "english": "¥100",
+    "japanese": "ひゃくえん",
+    "notes": ""
+  },
+  {
+    "hiragana": "せんえん",
+    "romaji": "sen en",
+    "english": "¥1,000",
+    "japanese": "せんえん",
+    "notes": ""
+  },
+  {
+    "hiragana": "いちまんえん",
+    "romaji": "ichiman en",
+    "english": "¥10,000",
+    "japanese": "いちまんえん",
+    "notes": ""
+  },
+  {
+    "hiragana": "じゅうまんえん",
+    "romaji": "juuman en",
+    "english": "¥100,000",
+    "japanese": "じゅうまんえん",
+    "notes": ""
+  },
+  {
+    "hiragana": "すき・すきな",
+    "romaji": "suki / sukina",
+    "english": "like",
+    "japanese": "すき・すきな",
+    "notes": "Used as a na-adjective."
+  },
+  {
+    "hiragana": "すきなたべもの",
+    "romaji": "sukina tabemono",
+    "english": "food you like / your favorite food",
+    "japanese": "すきな たべもの",
+    "notes": ""
+  },
+  {
+    "hiragana": "ぴざがすきです",
+    "romaji": "piza ga suki desu",
+    "english": "I like pizza.",
+    "japanese": "ピザがすきです。",
+    "notes": ""
+  },
+  {
+    "hiragana": "すきなのみものはなんですか",
+    "romaji": "sukina nomimono wa nan desu ka",
+    "english": "What is your favorite drink?",
+    "japanese": "すきなのみものはなんですか。",
+    "notes": ""
+  }
+]

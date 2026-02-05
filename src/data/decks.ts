@@ -118,5 +118,10 @@ export const availableDecks = [
     label_english: "Jan 17 2026",
     label_hiragana: "2026年1月17日",
     file: "1_17_26.json",
-  }
+  },
+  {
+    label_english: "beginning japanese 2 final",
+    label_hiragana: "日本語2最終試験",
+    file: "beg_jap_2_final.json",
+  },
 ]
